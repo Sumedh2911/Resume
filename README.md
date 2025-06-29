@@ -1,0 +1,1 @@
+"This repository contains two files: a ZIP file and a PDF. The ZIP file includes all the LaTeX source code used to create the resume, while the PDF file displays the final rendered output of that code."
